@@ -1,0 +1,16 @@
+BASE_URL: https://api.eventhub.rahulshettyacademy.com
+TOKEN: undefined
+Login response body: {
+  success: true,
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTQ4ODUxLCJleHAiOjE3Nzc1NTM2NTF9.LV0JJnE5ACO5rEnFfzRvHdULbJyCu4NF8F0Vb6PJLU0',
+  user: { id: 4649, email: 'udayaalbert@gmail.com' }
+}
+Received token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTQ4ODUxLCJleHAiOjE3Nzc1NTM2NTF9.LV0JJnE5ACO5rEnFfzRvHdULbJyCu4NF8F0Vb6PJLU0
+BASE_URL: https://api.eventhub.rahulshettyacademy.com
+TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTQ4ODUxLCJleHAiOjE3Nzc1NTM2NTF9.LV0JJnE5ACO5rEnFfzRvHdULbJyCu4NF8F0Vb6PJLU0
+Event ID: 23581
+Event available seats: 100
+Request 0 Status: 201
+Request 1 Status: 201
+Request 2 Status: 201
+Successful: 3 Failed: 0

@@ -1,0 +1,46 @@
+BASE_URL: https://api.eventhub.rahulshettyacademy.com
+TOKEN: undefined
+Login response body: {
+  success: true,
+  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTUwMTE3LCJleHAiOjE3Nzc1NTQ5MTd9.G5NJ4qXNKXln-S_L_TEgi01dF1IjYUZoURG8c5TLHo0',
+  user: { id: 4649, email: 'udayaalbert@gmail.com' }
+}
+Received token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTUwMTE3LCJleHAiOjE3Nzc1NTQ5MTd9.G5NJ4qXNKXln-S_L_TEgi01dF1IjYUZoURG8c5TLHo0
+BASE_URL: https://api.eventhub.rahulshettyacademy.com
+TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQ2NDksImVtYWlsIjoidWRheWFhbGJlcnRAZ21haWwuY29tIiwiaWF0IjoxNzc2OTUwMTE3LCJleHAiOjE3Nzc1NTQ5MTd9.G5NJ4qXNKXln-S_L_TEgi01dF1IjYUZoURG8c5TLHo0
+Created Booking: {
+  success: true,
+  data: {
+    id: 23328,
+    eventId: 23607,
+    userId: 4649,
+    customerName: 'John Doe',
+    customerEmail: 'example@gmail.com',
+    customerPhone: '1234567890',
+    quantity: 2,
+    totalPrice: '2400',
+    status: 'confirmed',
+    bookingRef: 'T-OPK3JQ',
+    createdAt: '2026-04-23T13:15:17.324Z',
+    updatedAt: '2026-04-23T13:15:17.324Z',
+    event: {
+      id: 23607,
+      title: 'Test fixture Event',
+      description: 'This is a test event',
+      category: 'Testing',
+      venue: 'Online',
+      city: 'Test City',
+      eventDate: '2026-12-31T23:59:59.000Z',
+      price: '1200',
+      totalSeats: 100,
+      availableSeats: 100,
+      imageUrl: null,
+      isStatic: false,
+      userId: 4649,
+      createdAt: '2026-04-23T13:15:17.240Z',
+      updatedAt: '2026-04-23T13:15:17.240Z'
+    }
+  },
+  message: 'Booking confirmed!'
+}
+Booking Reference: T-OPK3JQ

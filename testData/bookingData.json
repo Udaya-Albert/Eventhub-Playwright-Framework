@@ -1,0 +1,14 @@
+[{
+    
+    "customerName": "John Doe",
+    "customerEmail": "example@gmail.com",
+    "customerPhone": "1234567890",
+    "quantity": 2
+},
+{
+    "customerName": "Jane Smith",
+    "customerEmail": "jane.smith@gmail.com",
+    "customerPhone": "0987654321",
+    "quantity": 5
+}]
+

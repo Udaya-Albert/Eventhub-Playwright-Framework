@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","745","Create Booking and validate seats + price","chromium","2026-04-23","passed","2026-04-23","@booking @regression","bookings\booking.spec.ts","",""
+"","561","@booking @concurrency prevent overbooking","webkit","2026-04-23","passed","2026-04-23","","bookings\concurrency.spec.ts","",""
+"","893","Create Booking and validate seats + price","webkit","2026-04-23","passed","2026-04-23","@booking @regression","bookings\booking.spec.ts","",""
+"","701","@booking @concurrency prevent overbooking","firefox","2026-04-23","passed","2026-04-23","","bookings\concurrency.spec.ts","",""
+"","671","Create Booking and validate seats + price","firefox","2026-04-23","passed","2026-04-23","@booking @regression","bookings\booking.spec.ts","",""
+"","763","@booking @concurrency prevent overbooking","chromium","2026-04-23","passed","2026-04-23","","bookings\concurrency.spec.ts","",""
