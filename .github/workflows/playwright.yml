@@ -32,7 +32,7 @@ jobs:
     - name: Generate Allure Report
       run: npx allure generate ./allure-results --clean
 
-    -name: Upload Allure Report
+    - name: Upload Allure Report
       uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
